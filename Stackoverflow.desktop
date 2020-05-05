@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=google-chrome https://stackoverflow.com/users/7510333/harish-kumawat
+Name=Stack overflow
+Icon=/home/glb-ban-473/Downloads/qt5 c++ images/stack.png
